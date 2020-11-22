@@ -1,5 +1,5 @@
 <?php 
-    $apiKey = "8457dac742ed356cdf867503b6b57680";
+    $apiKey = {API KEY}; //preferences from https://openweathermap.org/
 
     if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 
